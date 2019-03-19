@@ -1,0 +1,42 @@
+body {
+    background-color: #232323;
+    font-family: 'Montserrat', "Avenir", sans-serif;
+}
+
+.containerxp {
+    margin: 0 auto;
+    max-width: 600px;
+}
+/* Top Section*/
+h1 {
+    background-color: #4078AA;
+    font-size: 2em;
+}
+#rgb-value {
+    font-size: 200%;
+}
+
+/* Option Panel*/
+.btn {
+    border-radius: 0;
+    background-color: white;
+    border: 0;
+    color: #4078AA;
+}
+
+.selected, .btn:hover {
+    background-color: #4078AA;
+    color: white;
+}
+
+/* Main - Section */
+.square {
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    background-color: purple;
+    float: left;
+    border-radius: 25px;
+}
+
+
